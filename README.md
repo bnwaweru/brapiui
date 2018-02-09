@@ -17,6 +17,7 @@ You can install brapiui from github with:
 
 ``` r
 # install.packages("devtools")
+
 devtools::install_github("c5sire/brapiui")
 ```
 
@@ -27,7 +28,7 @@ Note: You also need to install the brapi package.
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("CIP-RIU/brapiui")
+devtools::install_github("CIP-RIU/brapi")
 ```
 
 This is a basic example which shows you how to solve a common problem:
